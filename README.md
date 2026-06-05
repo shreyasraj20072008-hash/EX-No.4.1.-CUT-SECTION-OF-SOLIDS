@@ -41,6 +41,7 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
 
 ## OUTPUT:
+<img width="1482" height="1062" alt="ChatGPT Image Jun 5, 2026, 09_11_42 PM" src="https://github.com/user-attachments/assets/03caeb58-7557-4a5f-9390-5ed606c66d2e" />
 
 ## RESULT:
 
